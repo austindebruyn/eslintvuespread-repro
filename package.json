@@ -1,0 +1,11 @@
+{
+  "name": "eslint-vue-spread-breaks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.13.0",
+    "eslint-plugin-vue": "^4.0.0-beta.2",
+    "vue": "^2.5.9"
+  }
+}
